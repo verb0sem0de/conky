@@ -1,1 +1,1 @@
-# test
+# conky skin

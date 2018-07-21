@@ -1,1 +1,1 @@
-# conky skin
+# conky spaceship skin
